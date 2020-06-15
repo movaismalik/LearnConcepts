@@ -4,7 +4,8 @@
   "description": "Learning Node Concepts & Basics",
   "main": "expresshelloworld.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
   },
   "devDependencies": {},
   "scripts": {
